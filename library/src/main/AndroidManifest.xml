@@ -1,0 +1,13 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          package="com.liuqingwei.moderntimepicker"
+          android:versionCode="1"
+          android:versionName="1.0">
+
+    <!-- only important for Eclipse. Android Studio overrides this with the build.gradle -->
+    <uses-sdk
+            android:minSdkVersion="7"
+            android:targetSdkVersion="19"
+            tools:ignore="GradleOverrides" />
+
+</manifest>
